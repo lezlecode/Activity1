@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619157878 source:c:\users\abel lesle a\documents\ltts mini project\atmega\at-mega 328 program\lesleatmega\fuse.c
+	<avr/io.h>
+
+1619158134 source:c:\users\abel lesle a\documents\ltts mini project\atmega\at-mega 328 program\lesleatmega\main.c
+	<avr/io.h>
+	<util/delay.h>
+
